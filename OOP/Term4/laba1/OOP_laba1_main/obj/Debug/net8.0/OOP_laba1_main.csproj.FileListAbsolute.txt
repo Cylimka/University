@@ -1,0 +1,14 @@
+C:\Users\mento\source\repos\OOP_laba_1\OOP_laba1_main\bin\Debug\net8.0\OOP_laba1_main.exe
+C:\Users\mento\source\repos\OOP_laba_1\OOP_laba1_main\bin\Debug\net8.0\OOP_laba1_main.deps.json
+C:\Users\mento\source\repos\OOP_laba_1\OOP_laba1_main\bin\Debug\net8.0\OOP_laba1_main.runtimeconfig.json
+C:\Users\mento\source\repos\OOP_laba_1\OOP_laba1_main\bin\Debug\net8.0\OOP_laba1_main.dll
+C:\Users\mento\source\repos\OOP_laba_1\OOP_laba1_main\bin\Debug\net8.0\OOP_laba1_main.pdb
+C:\Users\mento\source\repos\OOP_laba_1\OOP_laba1_main\obj\Debug\net8.0\OOP_laba1_main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mento\source\repos\OOP_laba_1\OOP_laba1_main\obj\Debug\net8.0\OOP_laba1_main.AssemblyInfoInputs.cache
+C:\Users\mento\source\repos\OOP_laba_1\OOP_laba1_main\obj\Debug\net8.0\OOP_laba1_main.AssemblyInfo.cs
+C:\Users\mento\source\repos\OOP_laba_1\OOP_laba1_main\obj\Debug\net8.0\OOP_laba1_main.csproj.CoreCompileInputs.cache
+C:\Users\mento\source\repos\OOP_laba_1\OOP_laba1_main\obj\Debug\net8.0\OOP_laba1_main.dll
+C:\Users\mento\source\repos\OOP_laba_1\OOP_laba1_main\obj\Debug\net8.0\refint\OOP_laba1_main.dll
+C:\Users\mento\source\repos\OOP_laba_1\OOP_laba1_main\obj\Debug\net8.0\OOP_laba1_main.pdb
+C:\Users\mento\source\repos\OOP_laba_1\OOP_laba1_main\obj\Debug\net8.0\OOP_laba1_main.genruntimeconfig.cache
+C:\Users\mento\source\repos\OOP_laba_1\OOP_laba1_main\obj\Debug\net8.0\ref\OOP_laba1_main.dll
